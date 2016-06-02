@@ -1,3 +1,2 @@
 # Big-Data
-Presentation and demos outlining how to architect Big Data systems in Microsoft Azure.
-The presentation features Big Data Architecture Patterns and the use of HDInsight (Hadoop on Azure).
+The proliferation of customer data and the desire for insights not previously attainable has created a new industry focused on analyzing massive amounts of data.  The cost of processing huge amounts of data does not need to be prohibitive when you can take advantage of a scalable cloud platform.  We will discuss the Lambda architecture to take advantage of both batch and stream processing of data and will show various Azure services such as Azure Data Lake, Azure Data Factory, Azure Stream Analytics, Azure Machine Learning, and Power BI to provide a solution to unlock insights into data.
