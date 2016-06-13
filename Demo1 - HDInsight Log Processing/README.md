@@ -13,7 +13,7 @@ This section lists the pre-requisites required for this demonstration.
 
 ### Create HDInsight Cluster
 1.  Sign-in to the Azure Portal at <https://portal.azure.com>.                               
-2.  Select **+NEW &gt; Data + Analytics &gt; HDInsight**.                                     
+2.  Select **+NEW &gt; Data + Analytics &gt; HDInsight**. <img src="./media/image1.png" width="255" height="288" align="right" />                                    
      a.  Provide a unique cluster name                                                         
      b.  Set the Cluster Type to **Hadoop**                                                    
      c.  Set the Cluster Operating System to **Windows**                                       
@@ -32,20 +32,19 @@ This section lists the pre-requisites required for this demonstration.
                                                                                                
  *Remember to remove the HDInsight cluster after you are done with the demo to reduce costs.*
 
-<img src="./media/image1.png" width="255" height="288" />
-
 ### Install HIVE ODBC driver
-1.  Download and install the HIVE ODBC driver from <http://go.microsoft.com/fwlink/?linkid=286698&clcid=0x409>
-2.  Open Excel.                                                                              
-3.  Go to **File / Options** and choose the **Add-Ins** tab.                                  
-4.  Change the drop-down to **COM Add-Ins** and click **Go.**                                 
+1. Download and install the HIVE ODBC driver from <http://go.microsoft.com/fwlink/?linkid=286698&clcid=0x409>
+2. Open Excel.                                                                              
+3. Go to **File / Options** and choose the **Add-Ins** tab.                                  
+4. Change the drop-down to **COM Add-Ins** and click **Go.**
+
     <img src="./media/image2.png" width="255" height="209" />
-5.  Enable the **Microsoft Power Pivot for Excel** option.
-    <img src="./media/image3.png" width="255" height="101" />  |
+5. Enable the **Microsoft Power Pivot for Excel** option.
+
+    <img src="./media/image3.png" width="255" height="101" />
 
 ## Demo Steps
 *Estimated time: 10 minutes*
-
 1.  Sign-in to the Azure Portal at <https://portal.azure.com>.
 2.  Click on **HDInsight Clusters** in the left navigation.
 3.  Click on the resource group name
