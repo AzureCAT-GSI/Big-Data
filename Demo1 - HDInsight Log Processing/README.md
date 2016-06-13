@@ -13,7 +13,7 @@ This section lists the pre-requisites required for this demonstration.
 
 ### Create HDInsight Cluster
 1.  Sign-in to the Azure Portal at <https://portal.azure.com>.                               
-2.  Select **+NEW &gt; Data + Analytics &gt; HDInsight**. <img src="./media/image1.png" align="right" />                                    
+2.  Select **+NEW &gt; Data + Analytics &gt; HDInsight**. <img src="./media/image1.png" width="400" align="right" />                                    
      a.  Provide a unique cluster name                                                         
      b.  Set the Cluster Type to **Hadoop**                                                    
      c.  Set the Cluster Operating System to **Windows**                                       
@@ -152,4 +152,5 @@ This section lists the pre-requisites required for this demonstration.
 
 ## Clean Up
 To clean up after this demo perform the following steps:
+
 1.  Delete the resource group that contains your HDInsight cluster.
