@@ -6,8 +6,8 @@ The proliferation of customer data and the desire for insights not previously at
 Download the [PowerPoint](https://github.com/GSIAzureCOE/Big-Data/blob/InProgress/Architecting%20Big%20Data%20Solutions.pptx). The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ##Demos
-1. Demo1 - HDInsight Log Processing [Demo Script] (https://github.com/GSIAzureCOE/Big-Data/tree/InProgress/Demo1%20-%20HDInsight%20Log%20Processing)
-2. Demo2 - Cortana Analytics Connected Cars [Demo Script] (https://github.com/GSIAzureCOE/Big-Data/tree/InProgress/Demo2%20-%20Cortana%20Analytics%20Connected%20Cars)
+1. Demo1 - HDInsight Log Processing [[Demo Script] (Demo1%20-%20HDInsight%20Log%20Processing)] [[Demo video] (http://azurecatgsicontent.blob.core.windows.net/architecting-big-data-solutions/HDInsightDemo.mp4)]
+2. Demo2 - Cortana Analytics Connected Cars [[Demo Script] (Demo2%20-%20Cortana%20Analytics%20Connected%20Cars)] [[Demo video] (http://azurecatgsicontent.blob.core.windows.net/architecting-big-data-solutions/ConnectedCarDemo.mp4)]
 
 ##Session Objectives
 * Describe Big-Data and when to use it
