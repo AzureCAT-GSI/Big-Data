@@ -45,9 +45,10 @@ This section lists the pre-requisites required for this demonstration.
 
 ## Demo Steps
 *Estimated time: 10 minutes*
-1.  Sign-in to the Azure Portal at <https://portal.azure.com>.
-2.  Click on **HDInsight Clusters** in the left navigation.
-3.  Click on the resource group name
+
+1. Sign-in to the Azure Portal at <https://portal.azure.com>.
+2. Click on **HDInsight Clusters** in the left navigation.
+3. Click on the resource group name
 
     <img src="./media/image5.png" />
 4.  Point out that HDInsight is a resource and you can apply RBAC and tags to the resource group or resource.
